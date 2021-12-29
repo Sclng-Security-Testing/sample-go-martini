@@ -1,0 +1,8 @@
+dependencies = []
+description = ""
+destination_server = ["front", "scalingo-platform"]
+flags = ["global", "scalingo-app"]
+languages = ["ruby", "vue.js"]
+owner = "kevin@scalingo.com"
+team = "UFS"
+version = "0.1"
