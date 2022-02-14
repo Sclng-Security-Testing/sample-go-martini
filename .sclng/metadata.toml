@@ -1,8 +1,8 @@
 dependencies = []
-description = ""
-destination_server = ["front", "scalingo-platform"]
-flags = ["global", "scalingo-app"]
-languages = ["ruby", "vue.js"]
-owner = "kevin@scalingo.com"
-team = "UFS"
+description = "Test"
+destination_server = []
+flags = []
+languages = []
+owner = "siham@scalingo.com"
+team = "Infosec"
 version = "0.1"
